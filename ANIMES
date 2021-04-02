@@ -33,7 +33,18 @@ O nobre guerreiro espanhol Vega também aparece como um antagonista, embora ele 
 </channels>
 
 ##################################### THUNDERCATS ########################################
-
+<channels>
+<channel>
+<name>[B][COLOR blue]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]THUNDERCATS[/COLOR][/B] [COLOR blue]////[/COLOR]</name>
+<thumbnail>https://i.ibb.co/qsjK0Vy/THUNDER.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/CAVALEIROS-DO-ZODIACO/main/THUNDERCATS</externallink>
+<fanart>https://i.ibb.co/Cb15YjW/funart.jpg</fanart>
+<info>Os habitantes do planeta Thundera evacuam o lugar pouco antes de ele ser destruído. Estavam sendo perseguidos por um bando de mutantes. 
+Porém, todas as naves que escaparam foram destruídas: exceto uma. Somente um pequeno grupo de ThunderCats sobrou vivo. 
+Com pouca energia, a nave, comandada por Jaga, pousou no planeta mais próximo. Eles precisam defender o Olho Místico de Thundera, 
+a fonte do poder dos ThunderCats, dos Mutantes, que querem destruí-la.</info>
+</channel>
+</channels>
 
 
 
