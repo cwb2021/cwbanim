@@ -14,6 +14,24 @@ Ele é acompanhado por outros cavaleiros com armaduras próprias para lutar por 
 </channel>
 </channels>
 
+##################################### CAVALO DE FOGO ########################################
+<channels>
+<channel>
+<name>[B][COLOR blue]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]CAVALO DE FOGO[/COLOR][/B] [COLOR blue]////[/COLOR]</name>
+<thumbnail>https://i.ibb.co/XV7N16s/CAVALO-DE-FOGO.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/cwbani/main/CAVALO%20DE%20FOGO</externallink>
+<fanart>https://i.ibb.co/7WsBjqs/CAVALO-DE-FOGO-FANART.png</fanart>
+<info>Quando era apenas um bebê, a princesa Sara foi salva das garras de uma bruxa maligna, conhecida como Lady Diabolyn, 
+    por um místico cavalo falante chamado Cavalo de Fogo, que a conduziu do planeta Dar-Shan para um local seguro, em um 
+    rancho em Montana, no oeste norte-americano. Ela é então cuidada por um homem conhecido como John Cavanaugh. Por volta 
+    dos 13 anos de idade, Sara percebe que seu medalhão começa a brilhar. Logo, descobre que o amuleto é mágico e capaz de 
+    enviar um aviso ao cavalo que a salvou. O Cavalo de Fogo enfim conta à Sara sobre quem ela realmente é: a princesa do 
+    reino de Dar-Shan, situado em outra dimensão, filha da Rainha Sarana e do Príncipe Kevin. Sara descobre também que Diabolyn 
+    é irmã de sua mãe, sobre a qual Diabolyn lançou um feitiço para abdicar do trono.</info>
+</channel>
+</channels>
+
+
 ##################################### DUCK TALES OS CAÇADORES DE AVENTURA ########################################
 <channels>
 <channel>
@@ -86,6 +104,24 @@ a fonte do poder dos ThunderCats, dos Mutantes, que querem destruí-la.</info>
 </channel>
 </channels>
 
+##################################### SPEED RACERS ########################################
+<channels>
+<channel>
+<name>[B][COLOR blue]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]SPEED RACERS[/COLOR][/B] [COLOR blue]////[/COLOR]</name>
+<thumbnail>https://i.ibb.co/S3xCyCL/SPEED-RACER.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/cwbani/main/SPEEDRACER</externallink>
+<fanart>https://i.ibb.co/J7kJQWt/SPEED-RACER-FANART.png</fanart>
+<info>Speed Racer é um Anime dos anos 1960, criado por Tatsuo Yoshida sobre corridas de automóveis. 
+		Speed Racer (nome dado na adaptação Norte Americana do anime, que nunca diz o nome original Go Mifune), 
+		um jovem e audaz piloto de corrida de 18 anos, dirige o carro Mach 5, criado por seu pai (Pops Racer) 
+		e vive diversas aventuras dentro e fora das corridas. Um produto típico dos anos 1960, é inspirada nos 
+		filmes Viva Las Vegas, protagonizado por Elvis Presley e 007 Contra Goldfinger. o sobrenome Mifune é 
+		uma homenagem ao ator japonês Toshiro Mifune, protagonista do filme Os Sete Samurais. O desenho é muito 
+		conhecido pela sua canção tema e pela ótima trilha sonora, que tocava ao fundo e tornava ainda mais 
+		emocionantes as corridas em que o piloto Speed participava, sempre repletas de acidentes espetaculares 
+		e "golpes sujos" dos participantes, tais como seus mais célebres rivais, a "Equipe Acrobática" e o "Carro Mamute".</info>
+</channel>
+</channels>
 
 ##################################### YUYU HAKUSHO ########################################
 <channels>
