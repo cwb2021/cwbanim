@@ -169,6 +169,25 @@ Foi exibida por quatro temporadas, num total de 52 episódios.</info>
 </channel>
 </channels> 
 
+##################################### Swat cats ########################################
+<channels>
+<channel>
+<name>[B][COLOR blue]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]SWAT CATS[/COLOR][/B] [COLOR blue]////[/COLOR]</name>
+<thumbnail>https://i.ibb.co/q5N52qs/swatcats.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/cwbani/main/Swat%20Kats</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/71PgijWKccL._RI_.jpg</fanart>
+<info>A série conta a história de T-Bone e de Razor, dois pilotos da força militar "Enforcers" 
+que foram expulsos pelo Comandante Ulysses Feral, por terem desobedecido às suas ordens diretas, 
+e que por acidente, causado pelo próprio Comandante Feral, destruíram o quartel general.
+Ambos foram proibidos de voltarem a pilotar um avião para o resto da vida, e obrigados a 
+trabalharem num ferro-velho para pagarem a dívida que fizeram.
+Usando a sua perícia de mecânicos, e de peças de aviões que foram destruídos, construíram o 
+"TurboKat", um avião especial para os ajudar a patrulhar a cidade de MegaKat City sob a identidade 
+de Razor e T-Bone, os SWAT KATS, dois vigilantes que protegem a cidade, mesmo que não sejam bem vistos por isso.</info>
+
+</channel>
+</channels>
+
 ##################################### TRES ESPIAS DEMAIS ########################################
 <channels>
 <channel>
