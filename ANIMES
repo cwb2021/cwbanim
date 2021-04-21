@@ -30,6 +30,8 @@ você encontra apenas no hidratorrent.com e nos sites parceiros.</info>
 </channel>
 </channels>
 
+
+
 ##################################### CVALEIROS DO ZODÍACO ########################################
 <channels>
 <channel>
@@ -140,6 +142,17 @@ de Wilson Fisk (o Rei do Crime) por trás de inúmeras tramas, e claro, os duelo
 </channel>
 </channels>
 
+##################################### KND A TURMA DO BAIRRO########################################
+<channels>
+<channel>
+<name>[B][COLOR blue]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]KND A TURMA DO BAIRRO[/COLOR][/B] [COLOR blue]////[/COLOR]</name>
+<thumbnail>https://i.ibb.co/ByTBjWs/A-TURMA-DO-BAIRRO.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/cwbani/main/KND%20A%20TURMA%20DO%20BAIRRO</externallink>
+<fanart>https://i.ytimg.com/vi/bm-o7O0Y6MI/maxresdefault.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
 ##################################### LIGA DA JUSTIÇA ########################################
 <channels>
 <channel>
@@ -149,6 +162,18 @@ de Wilson Fisk (o Rei do Crime) por trás de inúmeras tramas, e claro, os duelo
 <fanart>https://i.pinimg.com/originals/ce/8b/df/ce8bdffdcaa1296af135aa8cb28f03e8.jpg</fanart>
 <info>a formação oficial e original da liga nos desenhos é Batman, Superman, J'onn J'onzz, Mulher-Gavião, Flash, Lanterna Verde e a Mulher-Maravilha.
 Todos os heróis acabam se unindo nos primeiros episódios do desenho, trabalhando em conjunto para deter uma ameaça alienígena que estava para dizimar a Terra.</info>
+</channel>
+</channels>
+
+##################################### MIRACULOS ########################################
+<channels>
+<channel>
+<name>[B][COLOR blue]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]MIRACULOS AS AVENTURAS DE LADY BUG[/COLOR][/B] [COLOR blue]////[/COLOR]</name>
+<thumbnail>https://i.ibb.co/fFDnB5Q/miraculos.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/cwbani/main/MIRACULOUS</externallink>
+<fanart>A super-heroína Marinette, mais conhecida como Ladybug, e seu parceiro Adrien, 
+famoso pelo nome de Cat Noir, têm a missão de salvar a cidade de Paris de um misterioso vilão, 
+mantendo sigilo sobre suas identidades secretas.</info>
 </channel>
 </channels>
 
